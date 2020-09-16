@@ -1,4 +1,4 @@
-baseurl = "https://afeverishday.github.io/blog/"
+baseurl = "/"
 # REF: Warning:You should change the "baseurl" option in config.toml from https://www.example.com/ to your actual domain; if you do not have a domain, set "baseurl" to "/"
 languageCode = "en-us"
 title = "J's blog"
